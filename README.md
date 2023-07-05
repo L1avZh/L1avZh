@@ -4,7 +4,3 @@
 - 🌱 I’m currently learning **HTML, SCSS, JAVASCRIPT, GIT, TYPESCRIPT AND SQL NODE, REACT**
 
 - 📫 How to reach me **liavoctober@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
